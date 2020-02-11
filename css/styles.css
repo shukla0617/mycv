@@ -1,5 +1,5 @@
 .top{
-    background-color: #eef9bf;
+    background-color: #fff;
     position: relative;
     padding-top: 100px;
     
@@ -33,6 +33,7 @@ h2{
 h3{
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
+    margin-bottom: 0px;
     
 }
 .top-cloud{
@@ -73,4 +74,12 @@ a{
     float: right;
     background-color: powderblue;
     margin-left: 30px;
+}
+.workinfo{
+    cellspacing:10px;
+}
+.workcol{
+    width: fit-content;
+    cellspacing:10px;
+    
 }
